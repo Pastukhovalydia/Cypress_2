@@ -1,0 +1,11 @@
+{
+    "validUser": {
+      "email": "qamid@qamid.ru",
+      "password": "qamid"
+    },
+    "invalidUser": {
+      "email": "invalid@qamid.ru",
+      "password": "invalid"
+    }
+  }
+  
